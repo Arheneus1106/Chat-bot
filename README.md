@@ -1,6 +1,3 @@
-# Coding Nexus ChatBot
-
-Coding Nexus ChatBot uses the OpenAI API to create a chatbot.
 
 ## Installation
 
@@ -20,11 +17,7 @@ cd api
 node .
 ```
 
-## Tutorials
 
-[API Tutorial - Create a Chatbot API with OpenAI in less than 7 minutes](https://youtu.be/Q6PEC4nzldU)
-
-[App Tutorial - Create a Chatbot with OpenAI](https://youtu.be/Q_NyjJLvMAU)
 
 ## Contributing
 
